@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555965836 source:d:\code\c++\ellipse_polar\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
+1556186935 source:c:\users\mahmoud\desktop\project graphics\ellipse_polar\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+

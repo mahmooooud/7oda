@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555907627 source:c:\users\mahmoud\desktop\3lamatofrg\clipping-task\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
+1555907712 source:c:\users\mahmoud\desktop\project graphics\clipping-task\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+

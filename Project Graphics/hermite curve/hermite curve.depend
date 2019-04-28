@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556466400 source:c:\users\mahmoud\desktop\project graphics\hermite curve\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+

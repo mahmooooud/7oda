@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555965767 source:d:\code\c++\circle_iterative\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
+1555969367 source:c:\users\mahmoud\desktop\project graphics\circle_iterative\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+

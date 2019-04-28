@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556206322 source:c:\users\mahmoud\desktop\project graphics\elilpse\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+

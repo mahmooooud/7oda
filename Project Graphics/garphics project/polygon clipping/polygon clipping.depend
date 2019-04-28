@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556457052 source:c:\users\mahmoud\desktop\project graphics\polygon clipping\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+

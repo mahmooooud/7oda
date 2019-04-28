@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555962213 source:d:\code\c++\circle_polar\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+

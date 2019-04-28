@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556466100 source:c:\users\mahmoud\desktop\project graphics\bezier curve\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+

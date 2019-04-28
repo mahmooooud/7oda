@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556182271 source:c:\users\mahmoud\desktop\project graphics\circle\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
+1556185972 source:c:\users\mahmoud\desktop\project graphics\new folder\circle\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
